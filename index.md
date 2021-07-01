@@ -1,4 +1,4 @@
-### Enlaces a mis proyectos
+### Enlaces
 
-- [Dixde(Diccionario de Derecho)](https://perseoq.github.io/dixde)
-- [Trucos de Debian/Ubuntu](https://perseoq.github.io/thesaltybox)
+- [Dixde](https://perseoq.github.io/dixde)
+- [The Salty Box](https://perseoq.github.io/thesaltybox)
