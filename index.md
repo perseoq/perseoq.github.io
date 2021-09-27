@@ -1,6 +1,4 @@
-| Autor | Bio |
-|-------|-------|
-|![F](/post/imagenes/4.jpg) | Todos los scripts son de uso personal. Programador por diversión desde 2003. → C++/Python; Debianita desde el 2007. Programador python :snake: - Programador C++ :computer - Linuxero :penguin: - Abogado penal :balance_scale: - Universitario :hamster: :paw_prints: - Matemático :zzz: |
+![F](https://github.com/perseoq/perseoq.github.io/blob/main/post/imagenes/Captura%20de%20pantalla%20de%202021-09-26%2021-42-37.png?raw=true)
 ## Artículos
 - [Crónica de una instalación frustrante (Debian 10 y Samsung ML-1675)](post/samsung-ml1675-debian.md)
 - [Configuración de microfono externo en GNOME3](post/microfono-gnome3.html)
