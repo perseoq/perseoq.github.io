@@ -20,10 +20,7 @@
 - [Libros de la Licenciatura en Matemáticas](https://drive.google.com/drive/folders/1572OSyGN2VyKD6GNyQHpb8rv_molP_YE?usp=sharing)
 - [Libros de la Licenciatura en Médico Cirujano y Partero](https://drive.google.com/drive/folders/1ZemDq3ELHQRxRF2-Ht434U8e4x8anrN_?usp=sharing)
 
-## Markdown en este theme
+## Proyectos
 
-- [Cómo se ven los blockquotes](post/a.md)
-- [Cómo se ve el código](post/code.html)
-- [imagenes tablas y graficos](post/img-tablas-graph.md)
-- [Un artículo entero](post/articulo.md)
+- [Dixde](https://perseoq.github.io/dixde)
 
