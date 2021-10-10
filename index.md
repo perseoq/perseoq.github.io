@@ -1,4 +1,4 @@
-![F](https://github.com/perseoq/perseoq.github.io/blob/main/post/imagenes/Captura%20de%20pantalla%20de%202021-09-26%2021-42-37.png?raw=true)
+
 ## Artículos
 - [Crónica de una instalación frustrante (Debian 10 y Samsung ML-1675)](post/samsung-ml1675-debian.md)
 - [Configuración de microfono externo en GNOME3](post/microfono-gnome3.html)
