@@ -10,6 +10,7 @@
 - [Solucionar problema entre GCC y PyAudio](post/gcc-pyaudio-error.md)
 - [Crear archivos ejecutables con pyinstaller](post/crear-ejecutables-con-pyinstaller.md)
 - [Instalar correctamente tkhtmlview](post/install-tkhtmlview.md)
+- [Instalar y configurar localtunnel para usarlo en un proyecto Flask](post/localtunnel-flask.md)
 
 ## Otros enlaces
 
