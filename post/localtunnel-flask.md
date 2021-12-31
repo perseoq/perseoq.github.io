@@ -40,7 +40,7 @@ chmod +x main.py
 
 Al ejecutarse nos mostrará algo similar a esto:
 ```bash
- * Serving Flask app 'f' (lazy loading)
+ * Serving Flask app 'main' (lazy loading)
  * Environment: production
    WARNING: This is a development server. Do not use it in a production deployment.
    Use a production WSGI server instead.
