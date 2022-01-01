@@ -56,7 +56,7 @@ Al ejecutarse nos mostrará algo similar a esto:
 127.0.0.1 - - [31/Dec/2021 08:48:16] "GET /favicon.ico HTTP/1.1" 404 -
 ```
 
-Ahora sabemos que nuestro proyecto está ejecutandose en `http://127.0.0.1:5000/`, esto nos ayudará para configurar nuestro localtunnel, ya que la configuración quedaria de la siguiente forma:
+Ahora sabemos que nuestro proyecto está ejecutandose en `http://127.0.0.1:5000/` (no cerramos esa ventana para que siga ejecutandose el servidor de Flask), esto nos ayudará para configurar nuestro localtunnel, con los datos anteriores del `host` y el `puerto` configuraremos nuestra línea de comando, en una nueva terminal ejecutaremos esto:
 ```bash
 lt -s test2345 -p 5000 -l 127.0.0.1
 ```
