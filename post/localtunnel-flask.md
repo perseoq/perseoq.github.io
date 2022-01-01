@@ -14,6 +14,7 @@ Ahora creamos nuestro proyecto de Flask
 virtualenv -p python3 f
 source f/bin/activate
 pip install flask
+deactivate
 nano main.py
 ```
 
