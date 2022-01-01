@@ -1,3 +1,4 @@
+[Blog de Programación](http://helloperseo.party/blog/)
 
 ## Artículos
 - [Crónica de una instalación frustrante (Debian 10 y Samsung ML-1675)](post/samsung-ml1675-debian.md)
