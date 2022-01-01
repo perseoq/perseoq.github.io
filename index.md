@@ -13,7 +13,7 @@
 - [Instalar y configurar localtunnel para usarlo en un proyecto Flask](post/localtunnel-flask.md)
 
 ## Otros enlaces
-
+- [Mis iconos para Debian/Ubuntu](http://helloperseo.party/my_icons/)
 - [Libros Curso ENARM 2020](https://drive.google.com/drive/folders/1KOlTms-n9I63Epxz99z5YCFqAsG6WwKz?usp=sharing)
 - [Libros de la Licenciatura en Medicina Veterinaria y Zootecnia](https://mega.nz/folder/QQpmkbLA#tth3RprKgXfmaariLIDY2w)
 - [Libros de la Licenciatura en Matemáticas](https://drive.google.com/drive/folders/1572OSyGN2VyKD6GNyQHpb8rv_molP_YE?usp=sharing)
