@@ -12,6 +12,7 @@
 - [Crear archivos ejecutables con pyinstaller](post/crear-ejecutables-con-pyinstaller.md)
 - [Instalar correctamente tkhtmlview](post/install-tkhtmlview.md)
 - [Instalar y configurar localtunnel para usarlo en un proyecto Flask](post/localtunnel-flask.md)
+- [Configurar app de flask en Apache2 con gunicorn en Ubuntu](post/flask-gunicorn-apache2.md)
 
 ## Otros enlaces
 - [Mis iconos para Debian/Ubuntu](http://helloperseo.party/my_icons/)
