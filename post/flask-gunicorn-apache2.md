@@ -68,7 +68,7 @@ Lo anterior a través de `ProxyPass` y `ProxyPassReverse` apuntaremos a la url d
 Damos de alta nuestro archivo `panaderia.conf` con `a2ensite`:
 
 ```bash
-sudo a2ensite sancristobal
+sudo a2ensite panaderia
 ```
 Y reiniciamo nuestro servidor para finalmente poder visualizar nuestro sitio con el dominio que le asignamos.
 
