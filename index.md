@@ -13,6 +13,7 @@
 - [Instalar correctamente tkhtmlview](post/install-tkhtmlview.md)
 - [Instalar y configurar localtunnel para usarlo en un proyecto Flask](post/localtunnel-flask.md)
 - [Configurar app de flask en Apache2 con gunicorn en Ubuntu](post/flask-gunicorn-apache2.md)
+- [Flask con SQLAlchemy(MySQL, fechas y subir archivos a la Base de Datos)](post/Flask-con-SQLAlchemy_MySQL.md)
 
 ## Otros enlaces
 - [Mis iconos para Debian/Ubuntu](http://helloperseo.party/my_icons/)
