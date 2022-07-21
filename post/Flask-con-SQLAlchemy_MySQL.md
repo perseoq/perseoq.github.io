@@ -227,9 +227,9 @@ def update(id):
 def update(id):
     get_element = Contacts.query.get(id)
     if request.method == 'POST':    
-    	fu = request.form['fullname']
-    	em = request.form['email']
-    	ph = request.form['phone']
+    	get_element.fullname = request.form['fullname']
+    	get_element.email = request.form['email']
+    	get_element.phone = request.form['phone']
         db.session.commit()
         return "actualizando"
     return render_template('update.html' elementos=get_elements)
