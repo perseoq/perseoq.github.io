@@ -1,4 +1,3 @@
-[Blog de Programación](http://helloperseo.party/blog/) // [Jawsuite](http://jawsuite.click) // [DataBot](http://databot.uk)
 
 ## Artículos
 - [Crónica de una instalación frustrante (Debian 10 y Samsung ML-1675)](post/samsung-ml1675-debian.md)
@@ -24,5 +23,8 @@
 
 ## Proyectos
 
-- [Dixde](https://perseoq.github.io/dixde)
+En producción
+- [FastSQLite: Micro ORM SQLite3](https://github.com/perseoq/FastSQLite)
 
+En desarrollo
+- [Constrictor: Analizador de Casos](https://github.com/perseoq/Constrictor) 
