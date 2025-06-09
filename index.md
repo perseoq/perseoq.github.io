@@ -23,6 +23,9 @@
 
 ## Proyectos
 
+Firefox
+- [YutuBlock Firefox Extension](https://addons.mozilla.org/firefox/downloads/file/4510300/579006b7d4e04ce2827a-1.2.xpi)
+
 En producción
 - [FastSQLite: Micro ORM SQLite3](https://github.com/perseoq/FastSQLite)
 
