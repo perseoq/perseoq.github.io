@@ -31,11 +31,15 @@ header a, header a:hover, header a:visited {
   color: var(--link-color);
 }
 
+h1, h1:hover{
+  color: #0bb2b8;
+  text-decoration: none;  
+}
+
 header h1 {
   text-decoration: none;
   font-size: 34pt;
   font-family: "Noto Serif", serif;
-  color: var(--header-color);
   padding-bottom: 10px;
   margin-top: 60px;
 }
