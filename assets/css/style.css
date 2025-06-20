@@ -39,7 +39,8 @@ header a, header a:hover, header a:visited {
 
 h1 a, h1 a:hover, h1:visited{
   color: #0bb2b8;
-  font-size: 34pt;
+  text-align: center;
+  font-size: 3.5rem;
   text-decoration: none;  
 }
 
