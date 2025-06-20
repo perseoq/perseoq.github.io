@@ -37,8 +37,12 @@ header a, header a:hover, header a:visited {
   color: var(--link-color);
 }
 
-h1 a, h1 a:hover, h1:visited{
+h1, h2, h3, h4, h5, h6{
   color: #0bb2b8;
+}
+
+h1 a, h1 a:hover, h1:visited{
+  color: #fff;
   text-align: center;
   font-size: 3.5rem;
   text-decoration: none;  
