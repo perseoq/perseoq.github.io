@@ -12,6 +12,10 @@
   --border-color: #30363d;
 }
 
+.container-lg{
+  width: 70%;
+}
+
 body {
   background-color: var(--bg-color);
   color: var(--text-color);
